@@ -212,3 +212,10 @@ img {
     padding: 1em 3em;
   }
 }
+@media screen and (min-width: 1000px) {
+  .app {
+  }
+  .padding {
+    padding: 1em 5em;
+  }
+}

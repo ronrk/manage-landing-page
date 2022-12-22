@@ -23,7 +23,7 @@ const CTAWrapper = styled.section`
 
     & .btn {
       flex: 1;
-
+      max-width: 200px;
       /* padding: 0; */
       /* padding-inline: 0.1em; */
       white-space: nowrap;

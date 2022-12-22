@@ -66,6 +66,10 @@ const MainSectionWrapper = styled.section`
     & p {
       padding: 0;
     }
+
+    & .title {
+      flex: 1;
+    }
   }
 `;
 
